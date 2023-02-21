@@ -23,5 +23,4 @@ function Question () {
 
    let p4 = prompt("What's your favorite anime?");
    alert("If it's not One Piece,you're a loser.");
-   console.log("Im running")
 }
