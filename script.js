@@ -11,7 +11,7 @@ let p4 = prompt("What's your favorite anime?");
 alert("If it's not One Piece,you're a loser.");
 
 
-function Question () {
+function Question() {
    let p1 = prompt("What's your name?"); 
    alert("Hey "+ p1);
 
@@ -24,3 +24,4 @@ function Question () {
    let p4 = prompt("What's your favorite anime?");
    alert("If it's not One Piece,you're a loser.");
 }
+Question()
